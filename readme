@@ -1,0 +1,7 @@
+gem 'capybara' #permite que haja interação do código com os elementos na página
+gem 'chromedriver-helper' #permite que o capybara interaja com o navegador
+gem 'cucumber' #o cucumber permite a escrita em BDD
+gem 'rspec' #permite fazer as validações
+gem 'selenium-webdriver' #permite que a página (browser) interaja com o código
+gem 'site_prism' #permite a interação docódigo com os elementos da página, tem mais recursos que o capybara
+gem 'pry' #dependência para debbug
